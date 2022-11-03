@@ -11,3 +11,6 @@ The baseline codes are shared by Jupyter notebook format. Please feel free to re
 Please contact Mr. Son Luu (Son T. Luu) if you want to use or discuss about this dataset. 
 Email: sonlt@uit.edu.vn
 Alternative: son.lt1103@gmail.com  
+
+# Publication  
+Link to publication: https://arxiv.org/abs/2207.14636 
