@@ -7,7 +7,7 @@ Baseline codes including:
 
 The baseline codes are shared by Jupyter notebook format. Please feel free to reuse or modify this code to adapt to your projects.     
 
-# Meta-data Integration  
+# Meta-data Integration Source code 
 Only Reviews:    
 + DNN: baseline/pt-vispam-dnn.  
 + Transformers: baseline/pt-vispam-transformers     
@@ -28,7 +28,7 @@ Metadata Integration (Category - Description):
 Others:
 + Sentence-BERT:    
 		meta-data/sentence-embedding/pt-vispam-phobert-sentence-embedding-description    
-		https://www.kaggle.com/cinhvn/pt-vispam-bert4news-sentence-embedding-description    
+		meta-data/sentence-embedding/pt-vispam-bert4news-sentence-embedding-description    
 		
 Inference: https://www.kaggle.com/cinhvn/pt-vispamreviews-inference.   
 
