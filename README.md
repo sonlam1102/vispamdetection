@@ -39,7 +39,7 @@ Alternative: son.lt1103@gmail.com
 
 # Publication  
 Link to publication for the original work (version 1): https://arxiv.org/abs/2207.14636    
-Meta-data Integration: tba  
+Meta-data Integration (version 2): https://arxiv.org/abs/2405.13292  
 # Citation 
 ```
 @InProceedings{10.1007/978-3-031-21743-2_48,
