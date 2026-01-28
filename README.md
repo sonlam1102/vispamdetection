@@ -1,6 +1,10 @@
 # Detecting Spam Reviews on Vietnamese E-commerce website  
 This dataset is used for spam review detection (opinion spam reviews) on Vietnamese E-commerce website. 
 The dataset is used for research purposes.  
+ACCESS the dataset on HuggingFace here (gated):  
++ ViSpamDetection version 1: https://huggingface.co/datasets/sonlam1102/vispamdetection
++ ViSpamDetection version 2: https://huggingface.co/datasets/sonlam1102/vispamdetection2   
+
 Baseline codes including:  
 + Deep neural model: TextCNN, BiLSTM, and GRU.    
 + Transformer models: PhoBERT and BERT4News.    
